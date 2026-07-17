@@ -2,7 +2,7 @@ import React, { createContext, useContext, useEffect, useState } from 'react'
 import { authDataContext } from './authContext'
 import axios from 'axios'
 
-export const userDataContext = createContext()
+export const userDataContext = createContext();
 function UserContext({children}) {
     let [userData,setUserData] = useState("")
     let {serverUrl} = useContext(authDataContext)
@@ -37,8 +37,10 @@ function UserContext({children}) {
       <userDataContext.Provider value={value}>
         {children}
       </userDataContext.Provider>
+       
     </div>
+  
   )
 }
 
-export default UserContext
+export default UserContext;

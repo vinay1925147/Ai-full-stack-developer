@@ -29,7 +29,7 @@ function Registration() {
         setLoading(true)
         e.preventDefault()
         try {
-         const result = await axios.post(serverUrl + '/api/auth/registration',{
+         const result = await axios.post(serverUrl + '/api/auth/signup',{
             name,email,password
          },{withCredentials:true})
             getCurrentUser()
