@@ -10,7 +10,7 @@ import productRoutes from './routes/productRoutes.js'
 import cartRoutes from './routes/cartRoutes.js'
 import orderRoutes from './routes/orderRoutes.js'
 
-let port = process.env.PORT || 6000
+let port = process.env.PORT
 
 let app = express()
 
@@ -31,7 +31,7 @@ app.use("/api/order",orderRoutes)
 
 
 app.listen(port,()=>{
-    console.log("Hello From Server")
+    console.log("Hello From Server",port)
     connectDb()
 })
 

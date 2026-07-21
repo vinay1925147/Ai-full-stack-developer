@@ -11,7 +11,7 @@ function ProductDetail() {
     let {products,currency ,addtoCart ,loading} = useContext(shopDataContext)
     let [productData,setProductData] = useState(false)
 
-    const [image, setImage] = useState('')
+  const [image, setImage] = useState('')
   const [image1, setImage1] = useState('')
   const [image2, setImage2] = useState('')
   const [image3, setImage3] = useState('')
@@ -20,7 +20,7 @@ function ProductDetail() {
 
 
 
-   const fetchProductData = async () => {
+  const fetchProductData = async () => {
     products.map((item) => {
       if (item._id === productId) {
         setProductData(item)

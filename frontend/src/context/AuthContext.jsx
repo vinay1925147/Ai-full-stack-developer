@@ -5,7 +5,7 @@ function AuthContext({children}) {
     let serverUrl = "http://localhost:8000"
 
     let value = {
-       serverUrl
+       serverUrl:serverUrl
     }
   return (
 

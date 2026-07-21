@@ -24,8 +24,7 @@ function Nav() {
         withCredentials: true,
       });
       console.log(result.data);
-
-      navigate("/login");
+      getCurrentUser();
     } catch (error) {
       console.log(error);
     }
@@ -34,7 +33,7 @@ function Nav() {
     <div className="w-[100vw] h-[70px] bg-[#ecfafaec] z-10 fixed top-0 flex  items-center justify-between px-[30px] shadow-md shadow-black ">
       <div className="w-[20%] lg:w-[30%] flex items-center justify-start   gap-[10px] ">
         <img src={logo} alt="" className="w-[30px]" />
-        <h1 className="text-[25px] text-[black] font-sans ">OneCart</h1>
+        <h1 className="text-[25px] text-[black] font-sans ">BuyEase</h1>
       </div>
       <div className="w-[50%] lg:w-[40%] hidden md:flex">
         <ul className="flex items-center justify-center gap-[19px] text-[white] ">
