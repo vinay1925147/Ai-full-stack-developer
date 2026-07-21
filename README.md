@@ -241,14 +241,12 @@ npm run dev
 ```
 
 # Screenshots
-
+<img width="1366" height="768" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/d0065e25-e786-493e-abd0-acaaa877e773" />
+<img width="1366" height="768" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/1b9c4df3-72ba-40c6-b787-ba1f31deb6f0" />
 <img width="1366" height="768" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/7ed9836a-3625-4317-9b75-358648d7d8de" />
 <img width="1366" height="768" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/eaa9f7d2-d405-4d7d-974c-3719f9c17c8c" />
 <img width="1366" height="768" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/dbce5dd9-37df-4e16-981e-89ab7cbb218e" />
 <img width="1366" height="768" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/e61a2f8c-1b3d-4466-bd2c-87ff289f997d" />
-<img width="1366" height="768" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/d0065e25-e786-493e-abd0-acaaa877e773" />
-
-<img width="1366" height="768" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/1b9c4df3-72ba-40c6-b787-ba1f31deb6f0" />
 <img width="1366" height="768" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/67f7c905-d1c2-4499-8a69-d8905cc3e0a9" />
 
 
