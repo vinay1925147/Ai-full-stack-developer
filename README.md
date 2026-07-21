@@ -9,89 +9,33 @@ A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Exp
 ## 👤 User Features
 
 ### Authentication & Authorization
-- User Registration
-- User Login
-- Secure JWT Authentication
-- Password Hashing using bcrypt
-- Protected Routes
-- Logout Functionality
 
 ### User Profile
-- View Profile
-- Update Profile Information
-- Change Password
-- View Order History
 
 ### Product Management
-- Browse All Products
-- Search Products
-- Filter Products by Category
-- Filter by Price
-- Sort Products
-- Product Details Page
-- Product Images
-- Product Ratings & Reviews
-- Stock Availability
 
 ### Shopping Cart
-- Add Product to Cart
-- Remove Product from Cart
-- Update Quantity
-- Cart Price Calculation
-- Persistent Cart
 
 ### Wishlist
-- Add to Wishlist
-- Remove from Wishlist
-- Move Wishlist Item to Cart
 
 ### Checkout
-- Shipping Address
-- Order Summary
-- Payment Method Selection
-- Order Confirmation
 
 ### Orders
-- Place Order
-- View My Orders
-- Track Order Status
-- Order Details
 
----
+
 
 # 🔑 Admin Features
 
 ### Admin Dashboard
-- Dashboard Overview
-- Total Users
-- Total Products
-- Total Orders
-- Total Revenue
 
 ### Product Management
-- Add Product
-- Edit Product
-- Delete Product
-- Upload Product Images
-- Manage Product Categories
-- Manage Stock
 
 ### Category Management
-- Create Category
-- Update Category
-- Delete Category
 
 ### User Management
-- View Users
-- Delete Users
-- Update User Role
-- Block/Unblock Users
 
 ### Order Management
-- View All Orders
-- Update Order Status
-- Cancel Orders
-- Delivered Orders
+
 
 ---
 
