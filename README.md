@@ -240,149 +240,19 @@ cd client
 npm run dev
 ```
 
----
-
-# API Endpoints
-
-## Authentication
-
-```
-POST   /api/auth/register
-POST   /api/auth/login
-GET    /api/auth/profile
-PUT    /api/auth/update-profile
-PUT    /api/auth/change-password
-```
-
----
-
-## Products
-
-```
-GET     /api/products
-GET     /api/products/:id
-POST    /api/products
-PUT     /api/products/:id
-DELETE  /api/products/:id
-```
-
----
-
-## Categories
-
-```
-GET     /api/categories
-POST    /api/categories
-PUT     /api/categories/:id
-DELETE  /api/categories/:id
-```
-
----
-
-## Cart
-
-```
-GET     /api/cart
-POST    /api/cart
-PUT     /api/cart/:id
-DELETE  /api/cart/:id
-```
-
----
-
-
----
-
-## Orders
-
-```
-POST    /api/orders
-GET     /api/orders
-GET     /api/orders/:id
-PUT     /api/orders/:id
-```
-
----
-
-
-
-# Security Features
-
-- JWT Authentication
-- Password Hashing
-- Protected API Routes
-- Role-Based Authorization
-- Secure Password Storage
-- Input Validation
-- Error Handling
-- Environment Variables
-- CORS Protection
-
----
-
-# Future Improvements
-
-- Stripe Payment Gateway
-- Razorpay Integration
-- PayPal Integration
-- Coupon System
-- Email Notifications
-- Product Recommendations
-- AI Search
-- Inventory Analytics
-- Sales Dashboard
-- Dark Mode
-- Multi-language Support
-- Live Chat Support
-- OTP Login
-- Social Login
-- PWA Support
-- Mobile Application
-
----
-
 # Screenshots
 
-Add screenshots here.
-
-```
-Home Page
-
-Products Page
-
-Product Details
-
-Cart
-
-Checkout
-
-Admin Dashboard
-
-Orders
-
-Profile
-```
-
----
+<img width="1366" height="768" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/7ed9836a-3625-4317-9b75-358648d7d8de" />
+<img width="1366" height="768" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/eaa9f7d2-d405-4d7d-974c-3719f9c17c8c" />
+<img width="1366" height="768" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/dbce5dd9-37df-4e16-981e-89ab7cbb218e" />
+<img width="1366" height="768" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/e61a2f8c-1b3d-4466-bd2c-87ff289f997d" />
+<img width="1366" height="768" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/d0065e25-e786-493e-abd0-acaaa877e773" />
+<img width="1366" height="768" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/ffa1109a-c2d0-4b13-856a-40018b869a02" />
+<img width="1366" height="768" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/1b9c4df3-72ba-40c6-b787-ba1f31deb6f0" />
+<img width="1366" height="768" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/67f7c905-d1c2-4499-8a69-d8905cc3e0a9" />
 
 
-## Database
 
-- MongoDB Atlas
-
----
-
-# Performance Optimizations
-
-- Lazy Loading
-- Pagination
-- Image Optimization
-- Code Splitting
-- API Caching
-- Debounced Search
-- Optimized MongoDB Queries
-
----
 
 # Author
 
@@ -394,6 +264,4 @@ Profile
 
 
 
-🛠️ Contribute by submitting a Pull Request
 
-Thank you for visiting!
